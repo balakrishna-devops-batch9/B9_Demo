@@ -1,0 +1,14 @@
+git stash save 
+
+amigosbusinesscorp@Amigoss-MacBook-Air S3_Demo % git stash save
+Saved working directory and index state WIP on main: 4cf6319 Line1 changes
+
+* How to list the stash changes ?
+
+git stash list
+
+ex:
+
+git stash list
+stash@{0}: WIP on main: 4cf6319 Line1 changes
+stash@{1}: WIP on main: 4cf6320 Dev changes
