@@ -11,4 +11,5 @@ ex:
 
 git stash list
 stash@{0}: WIP on main: 4cf6319 Line1 changes
-stash@{1}: WIP on main: 4cf6320 Dev changes
+stash@{1}: WIP on main: 4cf6320 Dev change
+LAST LINE WAS CHANGED BY DEV2 MACHINE 2
