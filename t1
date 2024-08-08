@@ -12,6 +12,7 @@ ex:
 git stash list
 stash@{0}: WIP on main: 4cf6319 Line1 changes
 stash@{1}: WIP on main: 4cf6320 Dev change
+<<<<<<< HEAD
 LAST LINE CHANGE BY DEV1 MACHINE 
 
 
